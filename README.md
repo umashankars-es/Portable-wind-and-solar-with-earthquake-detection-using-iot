@@ -1,0 +1,1 @@
+# Portable-wind-and-solar-with-earthquake-detection-using-iot
